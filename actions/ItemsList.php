@@ -1,6 +1,6 @@
 <?php
 
-namespace app\components\actions;
+namespace robot72\components\actions;
 
 use Yii;
 use yii\base\Action;

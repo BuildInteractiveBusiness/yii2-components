@@ -1,6 +1,6 @@
 <?php
 
-namespace app\components;
+namespace robot72\components\helpers;
 
 use yii\db\Migration;
 

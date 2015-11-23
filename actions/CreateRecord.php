@@ -6,7 +6,7 @@
  * and open the template in the editor.
  */
 
-namespace app\components\actions;
+namespace robot72\components\actions;
 
 use Yii;
 use yii\base\Action;
