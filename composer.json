@@ -1,0 +1,29 @@
+{
+    "name": "robot72/yii2-components",
+
+    "type": "yii2-extension",
+
+    "description": "The additional components for the Yii framework",
+    "keywords": ["yii2", "components", "helpers", "actions"],
+    "license": "BSD-3-Clause",
+    "support": {
+        "issues": "https://github.com/robot72/yii2-components/issues",
+        "source": "https://github.com/robot72/yii2-components"
+    },
+    "authors": [
+        {
+            "name": "Robert Kuznetsov",
+            "email": "robot3@xaker.ru"
+        }
+    ],
+
+    "require": {
+        "yiisoft/yii2": "*",
+    },
+
+    "autoload": {
+        "psr-4": {
+            "robot72\\components\\": ""
+        }
+    }
+}
