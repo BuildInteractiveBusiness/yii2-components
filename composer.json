@@ -1,5 +1,5 @@
 {
-    "name": "robot72/yii2-components",
+    "name": "buildinteractivebusiness/yii2-components",
 
     "type": "yii2-extension",
 
@@ -7,8 +7,8 @@
     "keywords": ["yii2", "components", "helpers", "actions"],
     "license": "BSD-3-Clause",
     "support": {
-        "issues": "https://github.com/robot72/yii2-components/issues",
-        "source": "https://github.com/robot72/yii2-components"
+        "issues": "https://github.com/buildinteractivebusiness/yii2-components/issues",
+        "source": "https://github.com/buildinteractivebusiness/yii2-components"
     },
     "authors": [
         {
